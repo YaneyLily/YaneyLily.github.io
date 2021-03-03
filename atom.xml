@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://yaneylily.github.io/YaneyLily.github.io/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://yaneylily.github.io/YaneyLily.github.io/"/>
+  <link href="http://example.com/"/>
   <updated>2021-03-02T08:58:10.908Z</updated>
-  <id>https://yaneylily.github.io/YaneyLily.github.io/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>Yaney</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="https://yaneylily.github.io/YaneyLily.github.io/2021/03/02/yaneyTest/"/>
-    <id>https://yaneylily.github.io/YaneyLily.github.io/2021/03/02/yaneyTest/</id>
+    <link href="http://example.com/2021/03/02/yaneyTest/"/>
+    <id>http://example.com/2021/03/02/yaneyTest/</id>
     <published>2021-03-02T08:58:10.908Z</published>
     <updated>2021-03-02T08:58:10.908Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://yaneylily.github.io/YaneyLily.github.io/2021/03/02/hello-world/"/>
-    <id>https://yaneylily.github.io/YaneyLily.github.io/2021/03/02/hello-world/</id>
+    <link href="http://example.com/2021/03/02/hello-world/"/>
+    <id>http://example.com/2021/03/02/hello-world/</id>
     <published>2021-03-02T08:26:48.887Z</published>
     <updated>2021-03-02T08:26:48.888Z</updated>
     
