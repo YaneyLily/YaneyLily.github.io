@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://yaneylily.github.io/YaneyLily/atom.xml" rel="self"/>
+  <link href="https://yaneylily.github.io/atom.xml" rel="self"/>
   
-  <link href="https://yaneylily.github.io/YaneyLily/"/>
+  <link href="https://yaneylily.github.io/"/>
   <updated>2021-03-02T08:58:10.908Z</updated>
-  <id>https://yaneylily.github.io/YaneyLily/</id>
+  <id>https://yaneylily.github.io/</id>
   
   <author>
     <name>Yaney</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="https://yaneylily.github.io/YaneyLily/2021/03/02/yaneyTest/"/>
-    <id>https://yaneylily.github.io/YaneyLily/2021/03/02/yaneyTest/</id>
+    <link href="https://yaneylily.github.io/2021/03/02/yaneyTest/"/>
+    <id>https://yaneylily.github.io/2021/03/02/yaneyTest/</id>
     <published>2021-03-02T08:58:10.908Z</published>
     <updated>2021-03-02T08:58:10.908Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://yaneylily.github.io/YaneyLily/2021/03/02/hello-world/"/>
-    <id>https://yaneylily.github.io/YaneyLily/2021/03/02/hello-world/</id>
+    <link href="https://yaneylily.github.io/2021/03/02/hello-world/"/>
+    <id>https://yaneylily.github.io/2021/03/02/hello-world/</id>
     <published>2021-03-02T08:26:48.887Z</published>
     <updated>2021-03-02T08:26:48.888Z</updated>
     
