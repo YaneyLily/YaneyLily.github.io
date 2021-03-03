@@ -8,8 +8,8 @@
 
 
   <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/li.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/li.png">
   <link rel="mask-icon" href="/images/logo.svg" color="#222">
 
 <link rel="stylesheet" href="/css/main.css">
@@ -23,10 +23,12 @@
     var NexT = window.NexT || {};
     var CONFIG = {"hostname":"example.com","root":"/","images":"/image","scheme":"Gemini","version":"8.2.2","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}};
   </script>
+<meta name="description" content="戴白帽子的小女孩">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Yaney&#39;s Blog">
 <meta property="og:url" content="http://example.com/archives/2021/03/index.html">
 <meta property="og:site_name" content="Yaney&#39;s Blog">
+<meta property="og:description" content="戴白帽子的小女孩">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:author" content="Yaney">
 <meta name="twitter:card" content="summary">
@@ -85,6 +87,8 @@
   </style>
 </noscript>
 
+ <!-- 页面点击小红心 -->
+ <script type="text/javascript" src="/js/src/clicklove.js"></script>
 <link rel="alternate" href="/atom.xml" title="Yaney's Blog" type="application/atom+xml">
 </head>
 
@@ -166,7 +170,7 @@
     <img class="site-author-image" itemprop="image" alt="Yaney"
       src="/images/Yaney.jpeg">
   <p class="site-author-name" itemprop="name">Yaney</p>
-  <div class="site-description" itemprop="description"></div>
+  <div class="site-description" itemprop="description">戴白帽子的小女孩</div>
 </div>
 <div class="site-state-wrap site-overview-item animated">
   <nav class="site-state">
@@ -329,5 +333,10 @@
 
 
 
+  
+     <canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas> 
+     <script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script> 
+     <script type="text/javascript" src="/js/src/fireworks.js"></script>
+  
 </body>
 </html>
